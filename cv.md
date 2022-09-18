@@ -24,3 +24,8 @@ if (typeof user[key] === "object" && user[key] !== null) result = true;
 }   return resultat; 
 } console.log(getUsers(user));
 ```
+#### Education
+University: Belarusian State University of Transport Faculty of Civil Engineering
+I am currently taking courses at Mel Ross IT School
+#### English
+Elementary (A1)

@@ -1,1 +1,1 @@
-https://Fedosova-lyzhankova-Ylia.github.io/rsschool-cv/cv
+https://Fedosova-lyzhankova-Ylia.github.io/rsschool-cv/cv 
